@@ -1,1 +1,19 @@
 /* your code */
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th {
+    background-color: #2f5f97;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
